@@ -88,4 +88,4 @@ class Converter {
     }
 }
 
-new Converter().start();
+module.exports = Converter;
