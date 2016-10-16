@@ -1,6 +1,6 @@
 {
   "name": "mconv_mod_flac2mp3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[MCONV MOD] Convert music files from FLAC to MP3",
   "main": "mconv_mod_flac2mp3.js",
   "scripts": {
